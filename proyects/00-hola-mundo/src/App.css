@@ -13,6 +13,7 @@
  .tw-followCard-div {
     display: flex;
     flex-direction: column;
+    
  }
 
  .tw-followCard-header-span{
